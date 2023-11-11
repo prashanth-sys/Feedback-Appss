@@ -1,0 +1,20 @@
+/* Write your CSS code here. */
+.app-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: white;
+  width: 45%;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+}
+.main-heading {
+  font-size: 25px;
+}
